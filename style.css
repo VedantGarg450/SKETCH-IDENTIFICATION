@@ -1,0 +1,22 @@
+body{
+    background-image: linear-gradient(to bottom right, #ffffff31, #a16818);
+    font-family: 'Niconne', cursive;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+}
+h1{
+    background-color: white;
+    color: goldenrod;
+    line-height: 1.8;
+    font-family: 'Niconne', cursive;
+    font-size: 40px;
+}
+#show_sketch{
+    font-size: 25px;
+}
+canvas{
+    border-color: white;
+    border-style: groove;
+    border-width: 6px;
+    box-shadow: 10px 10px 30px white;
+}
